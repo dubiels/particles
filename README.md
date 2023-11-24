@@ -61,7 +61,7 @@ Cities with the most green spaces strongly overlap with cities with lowest parti
 
 both of these cities top global green space statistics, with close to or over 50% of parks and gardens being public green space.
 
-<img src="https://www.karolina.mgdubiel.com/particle/img/singapore.PNG" width="300px" display: inline-block">
+<img src="https://www.karolina.mgdubiel.com/particle/img/singapore.PNG" width="300px">
 <img src="https://www.karolina.mgdubiel.com/particle/img/zurich.PNG" width="300px">
 
 
@@ -69,8 +69,8 @@ both of these cities top global green space statistics, with close to or over 50
 
 both of these cities have less than 2% public green space, and much higher pollution rates than Singapore and Zurich, despite having **lower population densities** than Singapore and Zurich, respectively.
 
-<img src="https://www.karolina.mgdubiel.com/particle/img/dubai.PNG" style="max-width: 400px; display: inline-block">
-<img src="https://www.karolina.mgdubiel.com/particle/img/shanghai.PNG" style="max-width: 400px; display: inline-block"> 
+<img src="https://www.karolina.mgdubiel.com/particle/img/dubai.PNG" width="300px">
+<img src="https://www.karolina.mgdubiel.com/particle/img/shanghai.PNG" width="300px"> 
 
 Technical Details
 -----------------
